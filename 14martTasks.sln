@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14martTasks", "14martTasks\14martTasks.csproj", "{B0BE6146-A18A-418E-B478-C6A81CEB9506}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0BE6146-A18A-418E-B478-C6A81CEB9506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BE6146-A18A-418E-B478-C6A81CEB9506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BE6146-A18A-418E-B478-C6A81CEB9506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BE6146-A18A-418E-B478-C6A81CEB9506}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C293A57-F55B-42A1-8EB1-ED9118AC2F60}
+	EndGlobalSection
+EndGlobal

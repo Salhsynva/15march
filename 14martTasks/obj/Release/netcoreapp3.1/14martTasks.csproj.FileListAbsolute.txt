@@ -1,0 +1,13 @@
+C:\Users\HardSoft\source\repos\14martTasks\14martTasks\bin\Release\netcoreapp3.1\14martTasks.exe
+C:\Users\HardSoft\source\repos\14martTasks\14martTasks\bin\Release\netcoreapp3.1\14martTasks.deps.json
+C:\Users\HardSoft\source\repos\14martTasks\14martTasks\bin\Release\netcoreapp3.1\14martTasks.runtimeconfig.json
+C:\Users\HardSoft\source\repos\14martTasks\14martTasks\bin\Release\netcoreapp3.1\14martTasks.runtimeconfig.dev.json
+C:\Users\HardSoft\source\repos\14martTasks\14martTasks\bin\Release\netcoreapp3.1\14martTasks.dll
+C:\Users\HardSoft\source\repos\14martTasks\14martTasks\bin\Release\netcoreapp3.1\14martTasks.pdb
+C:\Users\HardSoft\source\repos\14martTasks\14martTasks\obj\Release\netcoreapp3.1\14martTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HardSoft\source\repos\14martTasks\14martTasks\obj\Release\netcoreapp3.1\14martTasks.AssemblyInfoInputs.cache
+C:\Users\HardSoft\source\repos\14martTasks\14martTasks\obj\Release\netcoreapp3.1\14martTasks.AssemblyInfo.cs
+C:\Users\HardSoft\source\repos\14martTasks\14martTasks\obj\Release\netcoreapp3.1\14martTasks.csproj.CoreCompileInputs.cache
+C:\Users\HardSoft\source\repos\14martTasks\14martTasks\obj\Release\netcoreapp3.1\14martTasks.dll
+C:\Users\HardSoft\source\repos\14martTasks\14martTasks\obj\Release\netcoreapp3.1\14martTasks.pdb
+C:\Users\HardSoft\source\repos\14martTasks\14martTasks\obj\Release\netcoreapp3.1\14martTasks.genruntimeconfig.cache
